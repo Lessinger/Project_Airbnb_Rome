@@ -1,6 +1,6 @@
 [![author](https://img.shields.io/badge/author-lessinger-green)](https://www.linkedin.com/in/guilherme-lessinger/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) 
 <p align="center">
-  <img src="https://img.freepik.com/free-photo/view-ancient-roman-colosseum-arena_23-2151224389.jpg?t=st=1736777641~exp=1736781241~hmac=64aa1638369e85b1d99dd6bf68fee377cffa5b5b10b0002b569855a76e9722d1&w=1380" >
+  <img src="rome.jpg" >
 </p>
 
 # Analyzing Arbnb data from the city of Rome
