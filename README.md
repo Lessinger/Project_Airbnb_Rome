@@ -22,5 +22,7 @@ After analyzing the data provided by the dataset, cleaning null and outlier data
 * The neighbourhood that, on average, have the lowest price is  *Roma delle Torri*,
 * The average prices of the listings are from €89,23 to €199,65.
 
- <sub> *See the notebook here:* https://bit.ly/4adrzPc </sub>
+ *See the notebook here:* https://bit.ly/4adrzPc
+ 
+ <br/><br/>
 ---
