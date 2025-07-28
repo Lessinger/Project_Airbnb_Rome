@@ -3,7 +3,7 @@
   <img src="rome.jpg" >
 </p>
 
-# Analyzing Arbnb data from the city of Rome
+# Analyzing Airbnb data from the city of Rome
 <sub>*Showing some insights that the data reveal*</sub>
 
 The dataset is dated with the last update on **11/09/2024** and it's available at [Inside Airbnb](http://insideairbnb.com/get-the-data.html).
